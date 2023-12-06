@@ -35,7 +35,7 @@ I'm a passionate [Your Profession/Role] with a keen interest in [Specific Techno
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-realwixi&show_icons=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=realwixi&show_icons=true&hide=contribs,prs&theme=radical)
 
 <!-- Optional: Add more sections as needed -->
 
